@@ -1,0 +1,7 @@
+# Archivos locales de trabajo
+work/
+
+# Archivos del sistema y editores
+.DS_Store
+Thumbs.db
+*.swp
